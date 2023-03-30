@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Navbar, Footer, Landing, About, Skills, Testimonials, Blog, Education, Experience, Contacts, Projects, Services, Achievement } from '../../components'
+import { Navbar, Footer, Landing, About, Skills, Education, Contacts, Projects } from '../../components'
 
 
 function Main() {
